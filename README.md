@@ -1,6 +1,6 @@
 Error Back Propagation (c++) / BP算法c++实现版本
 ====================
-手写体识别的BP算法实现，输出为0~9的数组，最大的为预测输出
+数字手写体识别的BP算法实现，输出为0~9的数组，最大的为预测输出
 
 change following values to fit your training data
 
